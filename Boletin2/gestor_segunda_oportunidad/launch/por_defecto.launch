@@ -1,0 +1,4 @@
+<launch> 
+	<node pkg="gestor_segunda_oportunidad" type="gestor.py" name="sub" output="screen">
+	</node>
+</launch>

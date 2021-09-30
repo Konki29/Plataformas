@@ -1,0 +1,5 @@
+<launch> 
+	<node pkg="bol_2_test" type="publicador_py.py" name="publicador_customizado" output="screen">
+	</node>
+</launch>
+

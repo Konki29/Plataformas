@@ -1,0 +1,5 @@
+<launch> 
+	<node pkg="bol_2_prog1" type="code.py" name="nodo" output="screen">
+	</node>
+</launch>
+

@@ -1,0 +1,7 @@
+<launch> 
+	<node pkg="bol_1_ej" type="publicador_py.py" name="publicador_customizado" output="screen">
+	</node>
+	<node pkg="bol_1_ej" type="publicador_ampliado.py" name="publicador_customizado_a" output="screen">
+	</node>
+</launch>
+
